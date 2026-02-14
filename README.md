@@ -44,6 +44,7 @@ Discord API
 
 
 📌 Notes
+
 Make sure your token has the required permissions.
 
 Use responsibly
