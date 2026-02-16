@@ -25,7 +25,7 @@ A powerful Discord server cloner built for fast and accurate server duplicatio
 ```
 # 🚀 Installation
 ```
-git clone https://github.com/SaYAmirAlone/Discord-Alone-Cloner.git
+https://github.com/voidethic/Discord-Alone-Cloner.git
 pip install -r requirements.txt
 ```
 # ▶ Usage
